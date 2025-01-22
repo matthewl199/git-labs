@@ -21,3 +21,7 @@ Answer 10: No they were not
 Answer 11: There was an error because there is new work that was created non-locally 
 
 Answer 12: yes they were changed
+
+Answer 13: .  ..  answers.md  .git  README.md
+
+Answer 14:
